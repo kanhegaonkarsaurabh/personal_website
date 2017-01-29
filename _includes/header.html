@@ -1,0 +1,9 @@
+<div class="header">
+    <ul class="nav nav-pills pull-right">
+        <!--<li><a href="{% link cv.md %}">CV</a></li>-->
+        <li class="{{page.blog | default: passive}}"><a href="{% link blog/index.html %}">Posts</a></li>
+        <li class="{{page.contact | default: passive}}"><a href="{% link contact.md %}">Contact</a></li>
+    </ul>
+    <h3 class="text-muted full"><a href="/">Alex Rosengarten</a></h3>
+    <h3 class="text-muted mobile"><a href="/">AR</a></h3>
+</div>

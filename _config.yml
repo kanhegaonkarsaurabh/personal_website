@@ -1,3 +1,5 @@
-name: Alex Rosengarten, Software Engineer
+name: Alex Rosengarten
+desc: Thoughts on Software and Life
+keywords:  python,javascript,Machine Learning,ai,Software,Engineering,computer,science
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
