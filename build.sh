@@ -10,7 +10,7 @@ find . -name "*.md" -type f -exec \
         -c /css/main.css \
         --email-obfuscation=javascript \
         -t html5 \
-        -V pagetitle="Alex Rosengarten" \
+        -V pagetitle="Saurabh Kanhegaonkar" \
         -o {}.html {} \;
 find . -depth -name '*.md.html' -execdir bash -c 'mv "$1" "${1/md.html/html}"' bash {} \;
 echo "Rendering complete"

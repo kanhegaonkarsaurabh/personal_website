@@ -1,12 +1,7 @@
-# Hi there, I'm Alex Rosengarten!
+# Hey, I'm Saurabh Kanhegaonkar!
 
-My passion is learning about learning about learning. I aim to use machine learning to help human learning,
-computer vision to realize *my* vision, and hopefully go on a few adventures along the way.
+I'm currently a rising junior at UC San Diego and am pursuing BS in Computer Science. I'm interested in building backend systems, designing data and AI pipelines and anything that involves software design and engineering!
 
+I'm currently a summer software engineering intern at [Aira](https://aira.io/), a remote assistance platform for visually impaired people.
 
-I currently work at Google on the [Arcs project](https://github.com/PolymerLabs/arcs). 
-Here, I'm building technology to protect user privacy in the AI era.
-
-Before this, I was a Machine Learning Engineer at [Aira.io](https://aira.io), a remote assistance platform for the blind. 
-
-You can check out my public profiles, reach out to me, or read [some of my thoughts](/blog).
+You can check out my public profiles and if you want to chat about anything, reach out to me [here]().

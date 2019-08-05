@@ -1,19 +1,19 @@
-@import url(https://fonts.googleapis.com/css?family=Fascinate&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,900&display=swap);
 
 :root {
-    --primary-color: #2B9045;
-    --secondary-color: #62905f;
+    --primary-color: #f45d22;
+    --secondary-color: #f37e4f;
     --font-color: #424242;
     --bg-color: #fff;
-    --heading-color: #292922;
+    --heading-color: #222222;
 }
 
 [data-theme="dark"] {
-    --primary-color: #a5f0a9;
-    --secondary-color: #85ab84;
+    --primary-color: #f78355;
+    --secondary-color: #f37e4f;
     --font-color: #f3fffd;
     --bg-color: #1f2520;
-    --heading-color: #8eab92;
+    --heading-color: #f78355;
 }
 
 
@@ -44,7 +44,7 @@ figure {
 
 h1 {
     color: var(--heading-color);
-    font-family: "Fascinate", cursive;
+    font-family: 'Montserrat', sans-serif;
     font-size: 2rem;
     margin-bottom: 1vh;
 }
